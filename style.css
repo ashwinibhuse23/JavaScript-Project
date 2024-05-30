@@ -1,0 +1,15 @@
+.navbar{
+    background-color: gray !important;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+a, li{
+    color: white;
+}
+.col-xl-3{
+    color: white;
+    text-align: center;
+}
